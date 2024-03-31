@@ -1,4 +1,3 @@
 # TantanganPraktikumW8
 
-NAMA : Syalom Advensia Manurung /b/
-NIM  : 11S21018
+Syalom Advensia Manurung - 11S21018
