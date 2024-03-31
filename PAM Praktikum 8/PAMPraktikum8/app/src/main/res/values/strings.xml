@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Gmail Duplikasi</string>
+    <string name="info_pengirim">Nama Pengirim </string>
+    <string name="info_subjek">Subject</string>
+    <string name="info_icon">Icon Pengirim</string>
+    <string name="info_text">Text Isi</string>
+
+    <string-array name="icon_email">
+        <item>@drawable/papaku</item>
+        <item>@drawable/mamaku</item>
+        <item>@drawable/myfamily</item>
+        <item>@drawable/renatamapren</item>
+        <item>@drawable/kombangcuu</item>
+        <item>@drawable/sarahcilait</item>
+        <item>@drawable/kamar3</item>
+        <item>@drawable/classfam</item>
+    </string-array>
+
+    <string-array name="subjek_email">
+        <item>uang jajan tambahan</item>
+        <item>buat bayar bursar + jajanmu</item>
+        <item>minggu depan kita ke kampung</item>
+        <item>haiii</item>
+        <item>bestieee</item>
+        <item>cyomm</item>
+        <item>kamar kita kena denda</item>
+        <item>bang edith tf uang</item>
+    </string-array>
+
+    <string-array name="pengirim_email">
+        <item>bigdaddy@gmail.com</item>
+        <item>mamacans@gmail.com</item>
+        <item>manurungsfam@gmail.com</item>
+        <item>tatamapren@gmail.com</item>
+        <item>kombangg@gmail.com</item>
+        <item>sarahacu@gmail.com</item>
+        <item>kamar3lantai1@gmail.com</item>
+        <item>class20@gmail.com</item>
+    </string-array>
+
+    <string-array name="text_isi">
+        <item>Bapak mau ngomongin soal uang jajan tambahan nih.</item>
+        <item>Mama mau ngomongin soal uang buat perkuliahan nih.</item>
+        <item>Jangan lupa kita minggu depan pulang kampung ya.</item>
+        <item>Hadiahmu udah kuterima ya bestie.</item>
+        <item>Semoga kita bisa ketemu lagi ya.</item>
+        <item>Ga terasa kita udah mau magang aja.</item>
+        <item>Keasramaan tiba-tiba sidak tadi malam</item>
+        <item>Semangat kuliahnya ya, ini ada sedikit jajan.</item>
+
+    </string-array>
+</resources>
